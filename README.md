@@ -54,7 +54,7 @@ A real-time chat web application built using Spring Boot, WebSocket, and STOMP p
  
 ## Application URL
 
-- **Access the Application**: After starting the application, you can access the chat application at: `http://localhost:8080/index.html`
+- **Access the Application**: After starting the application, you can access the chat application at: `http://localhost:8091/index.html`
 
 ## Frontend Structure
 
